@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently learning java and python   
 - 💞️ I’m looking to collaborate on every opportunity
-- 📫 How to reach me 
+- 📫 How to reach me e-mail: david.kunavar@gmail.com
 
 <!---
 davidkunavar/davidkunavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
